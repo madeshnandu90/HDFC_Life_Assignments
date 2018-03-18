@@ -1,4 +1,4 @@
-# Requirements:
+# Requirements
   1. Docker >= 17
 
 # Contents
@@ -9,7 +9,7 @@ This directory is the build context for the docker image containing Python 2.7, 
 
 
 
-# Instructions:
+# Instructions
 After cloning the repo HDFC_Life_Assignments, execute the following commands -
   1. Change into HDFC_Life_Assignments/Assignment1 directory,
   
