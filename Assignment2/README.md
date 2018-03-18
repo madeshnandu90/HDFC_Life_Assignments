@@ -1,4 +1,4 @@
-# Instructions:
+# Instructions
    After cloning the repo HDFC_Life_Assignments, execute the following commands -
        1. Change into HDFC_Life_Assignments/Assignment2 directory,
                 cd HDFC_Life_Assignments/Assignment2
